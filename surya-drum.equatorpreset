@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EQUATOR_PRESET version="1.9.7" uuid="6cc0f948a0b64fa8a69f1a43f0076d2e" tags="RISE,GRAND">
+  <MODMATRIX>
+    <CONNECTION source="No Modulation:0" dest="Amp Envelope:0" weight="1" mapping="0"/>
+    <CONNECTION source="No Modulation:0" dest="Amp Envelope:1" weight="1" mapping="0"/>
+    <CONNECTION source="No Modulation:0" dest="Amp Envelope:2" weight="1" mapping="0"/>
+    <CONNECTION source="No Modulation:0" dest="Amp Envelope:3" weight="1" mapping="0"/>
+    <CONNECTION source="No Modulation:0" dest="Amp Envelope:5" weight="1" mapping="0"/>
+    <CONNECTION source="No Modulation:0" dest="Amp Envelope:6" weight="1" mapping="0"/>
+    <CONNECTION source="No Modulation:0" dest="Oscillator Coarse:1" weight="1"
+                mapping="0"/>
+    <CONNECTION source="No Modulation:0" dest="Oscillator Coarse:2" weight="1"
+                mapping="0"/>
+    <CONNECTION source="No Modulation:0" dest="Oscillator Fine:0" weight="1"
+                mapping="0"/>
+    <CONNECTION source="No Modulation:0" dest="Oscillator Fine:1" weight="1"
+                mapping="0"/>
+    <CONNECTION source="No Modulation:0" dest="Oscillator Fine:2" weight="1"
+                mapping="0"/>
+    <CONNECTION source="No Modulation:0" dest="Sampler Coarse:0" weight="1" mapping="0"/>
+    <CONNECTION source="No Modulation:0" dest="Sampler Fine:0" weight="1" mapping="0"/>
+    <CONNECTION source="No Modulation:0" dest="Sampler Coarse:1" weight="1" mapping="0"/>
+    <CONNECTION source="No Modulation:0" dest="Sampler Fine:1" weight="1" mapping="0"/>
+    <CONNECTION source="No Modulation:0" dest="Oscillator Coarse:0" weight="1"
+                mapping="0"/>
+    <CONNECTION source="Strike 1:0" dest="Amp Envelope:4" weight="1" mapping="0"/>
+    <CONNECTION source="Bend 1:0" dest="Oscillator Coarse:0" weight="1" mapping="0"/>
+    <CONNECTION source="Bend 1:0" dest="Oscillator Coarse:1" weight="1" mapping="0"/>
+    <CONNECTION source="Bend 1:0" dest="Oscillator Coarse:2" weight="1" mapping="0"/>
+    <CONNECTION source="Bend 1:0" dest="Sampler Coarse:0" weight="1" mapping="0"/>
+    <CONNECTION source="Bend 1:0" dest="Sampler Coarse:1" weight="1" mapping="0"/>
+    <CONNECTION source="Amp Envelope:0" dest="Oscillator Level:0" weight="1"
+                mapping="0"/>
+    <CONNECTION source="Amp Envelope:0" dest="Oscillator Level:1" weight="1"
+                mapping="0"/>
+    <CONNECTION source="Amp Envelope:0" dest="Noise Level:0" weight="1" mapping="0"/>
+    <CONNECTION source="Amp Envelope:0" dest="Oscillator Level:2" weight="1"
+                mapping="0"/>
+    <CONNECTION source="Amp Envelope:0" dest="Sampler Level:0" weight="1" mapping="0"/>
+    <CONNECTION source="Amp Envelope:0" dest="Sampler Level:1" weight="1" mapping="0"/>
+  </MODMATRIX>
+  <KEYTRACKING/>
+  <PARAM id="OSC 1Level" value="1"/>
+  <PARAM id="OSC 1Pan" value="0"/>
+  <PARAM id="OSC 1Filter 1" value="1"/>
+  <PARAM id="OSC 1Filter 2" value="1"/>
+  <PARAM id="OSC 1FX" value="0"/>
+  <PARAM id="OSC 1Reverb" value="0"/>
+  <PARAM id="OSC 1Dry" value="0"/>
+  <PARAM id="OSC 1Waveform" value="4"/>
+  <PARAM id="OSC 1Enabled" value="1"/>
+  <PARAM id="OSC 1Coarse" value="0"/>
+  <PARAM id="OSC 1Fine" value="0"/>
+  <PARAM id="OSC 1PulseWidth" value="0.25"/>
+  <PARAM id="OSC 2Level" value="1"/>
+  <PARAM id="OSC 2Pan" value="0"/>
+  <PARAM id="OSC 2Filter 1" value="1"/>
+  <PARAM id="OSC 2Filter 2" value="1"/>
+  <PARAM id="OSC 2FX" value="0"/>
+  <PARAM id="OSC 2Reverb" value="0"/>
+  <PARAM id="OSC 2Dry" value="0"/>
+  <PARAM id="OSC 2Waveform" value="1"/>
+  <PARAM id="OSC 2Enabled" value="0"/>
+  <PARAM id="OSC 2Coarse" value="0"/>
+  <PARAM id="OSC 2Fine" value="0"/>
+  <PARAM id="OSC 2PulseWidth" value="0.25"/>
+  <PARAM id="OSC 3Level" value="1"/>
+  <PARAM id="OSC 3Pan" value="0"/>
+  <PARAM id="OSC 3Filter 1" value="1"/>
+  <PARAM id="OSC 3Filter 2" value="1"/>
+  <PARAM id="OSC 3FX" value="0"/>
+  <PARAM id="OSC 3Reverb" value="0"/>
+  <PARAM id="OSC 3Dry" value="0"/>
+  <PARAM id="OSC 3Waveform" value="1"/>
+  <PARAM id="OSC 3Enabled" value="0"/>
+  <PARAM id="OSC 3Coarse" value="0"/>
+  <PARAM id="OSC 3Fine" value="0"/>
+  <PARAM id="OSC 3PulseWidth" value="0.25"/>
+  <PARAM id="FMEnabled" value="0"/>
+  <PARAM id="RingModFilter 1" value="0"/>
+  <PARAM id="RingModFilter 2" value="1"/>
+  <PARAM id="RingModFX" value="0"/>
+  <PARAM id="RingModReverb" value="0"/>
+  <PARAM id="RingModDry" value="0"/>
+  <PARAM id="Sampler 1Preset" value="0"/>
+  <PARAM id="Sampler 1Enabled" value="0"/>
+  <PARAM id="Sampler 1Level" value="1"/>
+  <PARAM id="Sampler 1Pan" value="0"/>
+  <PARAM id="Sampler 1Offset" value="0"/>
+  <PARAM id="Sampler 1Filter 1" value="1"/>
+  <PARAM id="Sampler 1Filter 2" value="1"/>
+  <PARAM id="Sampler 1FX" value="0"/>
+  <PARAM id="Sampler 1Reverb" value="0"/>
+  <PARAM id="Sampler 1Dry" value="0"/>
+  <PARAM id="Sampler 1Coarse" value="0"/>
+  <PARAM id="Sampler 1Fine" value="0"/>
+  <PARAM id="Sampler 2Preset" value="0"/>
+  <PARAM id="Sampler 2Enabled" value="0"/>
+  <PARAM id="Sampler 2Level" value="1"/>
+  <PARAM id="Sampler 2Pan" value="0"/>
+  <PARAM id="Sampler 2Offset" value="0"/>
+  <PARAM id="Sampler 2Filter 1" value="1"/>
+  <PARAM id="Sampler 2Filter 2" value="1"/>
+  <PARAM id="Sampler 2FX" value="0"/>
+  <PARAM id="Sampler 2Reverb" value="0"/>
+  <PARAM id="Sampler 2Dry" value="0"/>
+  <PARAM id="Sampler 2Coarse" value="0"/>
+  <PARAM id="Sampler 2Fine" value="0"/>
+  <PARAM id="NoiseEnabled" value="0"/>
+  <PARAM id="NoiseWidth" value="0.5"/>
+  <PARAM id="NoiseLevel" value="0.90247398614883422852"/>
+  <PARAM id="NoiseFilter 1" value="1"/>
+  <PARAM id="NoiseFilter 2" value="1"/>
+  <PARAM id="NoiseFX" value="0"/>
+  <PARAM id="NoiseReverb" value="0"/>
+  <PARAM id="NoiseDry" value="0"/>
+  <PARAM id="Filter 1Type" value="0"/>
+  <PARAM id="Filter 1Enabled" value="0"/>
+  <PARAM id="Filter 1CutOff" value="0.25555557012557983398"/>
+  <PARAM id="Filter 1Resonance" value="0.087673328816890716553"/>
+  <PARAM id="Filter 1CombDelay" value="0.5"/>
+  <PARAM id="Filter 1CombMix" value="0"/>
+  <PARAM id="Filter 1CombFeedback" value="0"/>
+  <PARAM id="Filter 2Type" value="0"/>
+  <PARAM id="Filter 2Enabled" value="0"/>
+  <PARAM id="Filter 2CutOff" value="0.5"/>
+  <PARAM id="Filter 2Resonance" value="0.10000000149011611938"/>
+  <PARAM id="Filter 2CombDelay" value="0.5"/>
+  <PARAM id="Filter 2CombMix" value="0"/>
+  <PARAM id="Filter 2CombFeedback" value="0"/>
+  <PARAM id="Noise FilterType" value="0"/>
+  <PARAM id="Noise FilterEnabled" value="1"/>
+  <PARAM id="Noise FilterCutOff" value="0.93168401718139648438"/>
+  <PARAM id="Noise FilterResonance" value="0.10000000149011611938"/>
+  <PARAM id="Noise FilterCombDelay" value="0.5"/>
+  <PARAM id="Noise FilterCombMix" value="0"/>
+  <PARAM id="Noise FilterCombFeedback" value="0"/>
+  <PARAM id="Sampler Filter 1Type" value="0"/>
+  <PARAM id="Sampler Filter 1Enabled" value="0"/>
+  <PARAM id="Sampler Filter 1CutOff" value="0.5"/>
+  <PARAM id="Sampler Filter 1Resonance" value="0.10000000149011611938"/>
+  <PARAM id="Sampler Filter 1CombDelay" value="0.5"/>
+  <PARAM id="Sampler Filter 1CombMix" value="0"/>
+  <PARAM id="Sampler Filter 1CombFeedback" value="0"/>
+  <PARAM id="Sampler Filter 2Type" value="0"/>
+  <PARAM id="Sampler Filter 2Enabled" value="0"/>
+  <PARAM id="Sampler Filter 2CutOff" value="0.5"/>
+  <PARAM id="Sampler Filter 2Resonance" value="0.10000000149011611938"/>
+  <PARAM id="Sampler Filter 2CombDelay" value="0.5"/>
+  <PARAM id="Sampler Filter 2CombMix" value="0"/>
+  <PARAM id="Sampler Filter 2CombFeedback" value="0"/>
+  <PARAM id="DelayEnabled" value="0"/>
+  <PARAM id="DelayLeft" value="0.5"/>
+  <PARAM id="DelayRight" value="0.5"/>
+  <PARAM id="FeedbackLeft" value="0"/>
+  <PARAM id="FeedbackRight" value="0"/>
+  <PARAM id="LevelLeft" value="0.5"/>
+  <PARAM id="LevelRight" value="0.5"/>
+  <PARAM id="ChorusEnabled" value="0"/>
+  <PARAM id="Chorus Speed" value="0.10000000149011611938"/>
+  <PARAM id="Chorus Amount" value="0.5"/>
+  <PARAM id="Chorus Width" value="0.5"/>
+  <PARAM id="Chorus Depth" value="1"/>
+  <PARAM id="ReverbEnabled" value="0"/>
+  <PARAM id="Reverb Wet" value="0.5"/>
+  <PARAM id="Reverb Pre Delay" value="0"/>
+  <PARAM id="Reverb Damping" value="0.5"/>
+  <PARAM id="Reverb Size" value="0.5"/>
+  <PARAM id="EQEnabled" value="0"/>
+  <PARAM id="EQ Frequency 1" value="0.16666667163372039795"/>
+  <PARAM id="EQ Gain 1" value="0"/>
+  <PARAM id="EQ Q 1" value="0.15000000596046447754"/>
+  <PARAM id="EQ Frequency 2" value="0.3333333432674407959"/>
+  <PARAM id="EQ Gain 2" value="0"/>
+  <PARAM id="EQ Q 2" value="0.15000000596046447754"/>
+  <PARAM id="EQ Frequency 3" value="0.5"/>
+  <PARAM id="EQ Gain 3" value="0"/>
+  <PARAM id="EQ Q 3" value="0.15000000596046447754"/>
+  <PARAM id="LFO 1Polarity" value="0"/>
+  <PARAM id="LFO 1WaveShape" value="3"/>
+  <PARAM id="LFO 1Level" value="1"/>
+  <PARAM id="LFO 1Frequency" value="0.10000000149011611938"/>
+  <PARAM id="LFO 1Trigger" value="1"/>
+  <PARAM id="LFO 1Fade" value="0"/>
+  <PARAM id="LFO 2Polarity" value="0"/>
+  <PARAM id="LFO 2WaveShape" value="3"/>
+  <PARAM id="LFO 2Level" value="1"/>
+  <PARAM id="LFO 2Frequency" value="0.10000000149011611938"/>
+  <PARAM id="LFO 2Trigger" value="1"/>
+  <PARAM id="LFO 2Fade" value="0"/>
+  <PARAM id="Amp EnvelopeRepeatType" value="0"/>
+  <PARAM id="Amp EnvelopeAttack" value="0.027100300416350364685"/>
+  <PARAM id="Amp EnvelopeDecay" value="0.1450175940990447998"/>
+  <PARAM id="Amp EnvelopeSustain" value="0"/>
+  <PARAM id="Amp EnvelopeRelease" value="0"/>
+  <PARAM id="Amp EnvelopeLevel" value="1"/>
+  <PARAM id="Amp EnvelopePluckOffLevel" value="1"/>
+  <PARAM id="Amp EnvelopePluckOffWidth" value="0.10000000149011611938"/>
+  <PARAM id="Envelope 2RepeatType" value="0"/>
+  <PARAM id="Envelope 2Attack" value="0"/>
+  <PARAM id="Envelope 2Decay" value="0"/>
+  <PARAM id="Envelope 2Sustain" value="1"/>
+  <PARAM id="Envelope 2Release" value="0"/>
+  <PARAM id="Envelope 2Level" value="1"/>
+  <PARAM id="Envelope 2PluckOffLevel" value="1"/>
+  <PARAM id="Envelope 2PluckOffWidth" value="0.10000000149011611938"/>
+  <PARAM id="Envelope 3RepeatType" value="0"/>
+  <PARAM id="Envelope 3Attack" value="0"/>
+  <PARAM id="Envelope 3Decay" value="0"/>
+  <PARAM id="Envelope 3Sustain" value="1"/>
+  <PARAM id="Envelope 3Release" value="0"/>
+  <PARAM id="Envelope 3Level" value="1"/>
+  <PARAM id="Envelope 3PluckOffLevel" value="1"/>
+  <PARAM id="Envelope 3PluckOffWidth" value="0.10000000149011611938"/>
+  <PARAM id="Envelope 4RepeatType" value="0"/>
+  <PARAM id="Envelope 4Attack" value="0"/>
+  <PARAM id="Envelope 4Decay" value="0"/>
+  <PARAM id="Envelope 4Sustain" value="1"/>
+  <PARAM id="Envelope 4Release" value="0"/>
+  <PARAM id="Envelope 4Level" value="1"/>
+  <PARAM id="Envelope 4PluckOffLevel" value="1"/>
+  <PARAM id="Envelope 4PluckOffWidth" value="0.10000000149011611938"/>
+  <PARAM id="Envelope 5RepeatType" value="0"/>
+  <PARAM id="Envelope 5Attack" value="0"/>
+  <PARAM id="Envelope 5Decay" value="0"/>
+  <PARAM id="Envelope 5Sustain" value="1"/>
+  <PARAM id="Envelope 5Release" value="0"/>
+  <PARAM id="Envelope 5Level" value="1"/>
+  <PARAM id="Envelope 5PluckOffLevel" value="1"/>
+  <PARAM id="Envelope 5PluckOffWidth" value="0.10000000149011611938"/>
+  <PARAM id="Filter Block Configuration" value="0"/>
+  <PARAM id="Input 1 to FX" value="1"/>
+  <PARAM id="Input 1 to Reverb" value="0"/>
+  <PARAM id="Input 1 to Dry" value="0"/>
+  <PARAM id="Input 2 to FX" value="0.5"/>
+  <PARAM id="Input 2 to Reverb" value="0"/>
+  <PARAM id="Input 2 to Dry" value="0"/>
+  <PARAM id="FM Configuration" value="0"/>
+  <PARAM id="FM Depth A" value="0"/>
+  <PARAM id="FM Depth B" value="0"/>
+  <PARAM id="Pressure Mapping Coef" value="0"/>
+  <PARAM id="Strike Mapping Coef" value="0"/>
+  <PARAM id="Pitch Bend Mapping Coef" value="0"/>
+  <PARAM id="EQ Frequency 4" value="0.6666666865348815918"/>
+  <PARAM id="EQ Gain 4" value="0"/>
+  <PARAM id="EQ Q 4" value="0.20000000298023223877"/>
+  <PARAM id="EQ Frequency 5" value="0.8333333134651184082"/>
+  <PARAM id="EQ Gain 5" value="0"/>
+  <PARAM id="EQ Q 5" value="0.20000000298023223877"/>
+  <PARAM id="Input 1 to Output" value="0"/>
+  <PARAM id="Input 2 to Output" value="1"/>
+  <PARAM id="Output gain to FX" value="1"/>
+  <PARAM id="Output gain to Reverb" value="0"/>
+  <PARAM id="Output gain to Dry" value="0"/>
+  <PARAM id="Lift Mapping Coef"/>
+  <PARAM id="Pressure Mapping Coef 2"/>
+  <PARAM id="Strike Mapping Coef 2"/>
+  <PARAM id="Lift Mapping Coef 2"/>
+  <PARAM id="Pitch Bend Mapping Coef 2"/>
+  <PARAM id="Pressure Mapping Coef 3"/>
+  <PARAM id="Strike Mapping Coef 3"/>
+  <PARAM id="Lift Mapping Coef 3"/>
+  <PARAM id="Pitch Bend Mapping Coef 3"/>
+  <PARAM id="Pressure Mapping Coef 4"/>
+  <PARAM id="Strike Mapping Coef 4"/>
+  <PARAM id="Lift Mapping Coef 4"/>
+  <PARAM id="Pitch Bend Mapping Coef 4"/>
+  <PARAM id="Octave Shift" value="0"/>
+  <PARAM id="Voice Mode" value="0"/>
+  <PARAM id="RingModEnabled" value="0"/>
+  <PARAM id="NoiseWaveform" value="1"/>
+  <PARAM id="BitcrusherEnabled" value="0"/>
+  <PARAM id="Bitcrusher Drive" value="0.5"/>
+  <PARAM id="Bitcrusher Crush" value="0.5"/>
+  <PARAM id="Bitcrusher Reduce" value="0"/>
+  <PARAM id="Bitcrusher Tone" value="1"/>
+  <PARAM id="Bitcrusher Blend" value="1"/>
+  <PARAM id="Bitcrusher Level" value="0.20000000298023223877"/>
+  <PARAM id="DistortionEnabled" value="0"/>
+  <PARAM id="Distortion Drive" value="0.5"/>
+  <PARAM id="Distortion Bass" value="0.5"/>
+  <PARAM id="Distortion Tone" value="0.5"/>
+  <PARAM id="Distortion Fuzz" value="0.60000002384185791016"/>
+  <PARAM id="Distortion Bite" value="0"/>
+  <PARAM id="Distortion Blend" value="1"/>
+  <PARAM id="Distortion Level" value="0.5"/>
+  <PARAM id="Amp EnvelopeAttack Slope" value="0"/>
+  <PARAM id="Amp EnvelopeDecay Slope" value="0"/>
+  <PARAM id="Amp EnvelopeRelease Slope" value="0"/>
+  <PARAM id="Envelope 2Attack Slope" value="0"/>
+  <PARAM id="Envelope 2Decay Slope" value="0"/>
+  <PARAM id="Envelope 2Release Slope" value="0"/>
+  <PARAM id="Envelope 3Attack Slope" value="0"/>
+  <PARAM id="Envelope 3Decay Slope" value="0"/>
+  <PARAM id="Envelope 3Release Slope" value="0"/>
+  <PARAM id="Envelope 4Attack Slope" value="0"/>
+  <PARAM id="Envelope 4Decay Slope" value="0"/>
+  <PARAM id="Envelope 4Release Slope" value="0"/>
+  <PARAM id="Envelope 5Attack Slope" value="0"/>
+  <PARAM id="Envelope 5Decay Slope" value="0"/>
+  <PARAM id="Envelope 5Release Slope" value="0"/>
+  <PARAM id="Transpose" value="0"/>
+  <PARAM id="Fine Tune" value="0"/>
+  <PARAM id="Effect Modulation Mode" value="0"/>
+  <PARAM id="PresetLevel" value="0.66151583194732666016"/>
+  <KEYTRACKING2/>
+  <KEYTRACKING3/>
+  <KEYTRACKING4/>
+  <STRIKE0/>
+  <STRIKE1/>
+  <STRIKE2/>
+  <STRIKE3/>
+  <BEND0/>
+  <BEND1/>
+  <BEND2/>
+  <BEND3/>
+  <RISEY0/>
+  <RISEY1/>
+  <RISEY2/>
+  <RISEY3/>
+  <PRESS0/>
+  <PRESS1/>
+  <PRESS2/>
+  <PRESS3/>
+  <LIFT0/>
+  <LIFT1/>
+  <LIFT2/>
+  <LIFT3/>
+  <MacroToAliasState>
+    <MAPPING MacroID="Macro:0" AliasID="RISE Left Fader"/>
+    <MAPPING MacroID="Macro:1" AliasID="RISE Middle Fader"/>
+    <MAPPING MacroID="Macro:2" AliasID="RISE Right Fader"/>
+    <MAPPING MacroID="Macro:3" AliasID="RISE Pad Horizontal"/>
+    <MAPPING MacroID="Macro:4" AliasID="RISE Pad Vertical"/>
+  </MacroToAliasState>
+  <MacroValues/>
+  <PARAM id="DelayBPMSyncEnabled" value="0"/>
+  <PARAM id="LFO 1BPM Sync Enabled" value="0"/>
+  <PARAM id="LFO 2BPM Sync Enabled" value="0"/>
+  <PARAM id="Amp EnvelopeBPM Sync Enabled" value="0"/>
+  <PARAM id="Envelope 2BPM Sync Enabled" value="0"/>
+  <PARAM id="Envelope 3BPM Sync Enabled" value="0"/>
+  <PARAM id="Envelope 4BPM Sync Enabled" value="0"/>
+  <PARAM id="Envelope 5BPM Sync Enabled" value="0"/>
+  <SAMPLER>
+    <Module_1>
+      <Instrument UUID="54b171f1-b320-4abb-a101-8750437fda0b" Name="Atlantis String Pluck"/>
+    </Module_1>
+    <Module_0>
+      <Instrument UUID="54b171f1-b320-4abb-a101-8750437fda0b" Name="Atlantis String Pluck"/>
+    </Module_0>
+  </SAMPLER>
+  <RISEControllerSensitivities FirmwareVersion="Unknown" Strike="1" Pressure="1" Glide="0" Slide="1"
+                               Lift="1"/>
+  <PARAM id="Preset Polyphony" value="16"/>
+  <PARAM id="Slide Absolute To Relative Mode Enabled" value="1"/>
+  <PARAM id="LRLinkEnabled" value="0"/>
+  <PARAM id="Mono Voice Processing Enabled" value="0"/>
+  <PARAM id="Mono Voice Processing Pan" value="0.5"/>
+  <TouchDimensionsConfiguration>
+    <Sensitivities>
+      <Strike Value="1"/>
+      <Glide Value="1"/>
+      <Slide Value="0.98425197601318359375"/>
+      <Press Value="1"/>
+      <Lift Value="1"/>
+    </Sensitivities>
+  </TouchDimensionsConfiguration>
+</EQUATOR_PRESET>
